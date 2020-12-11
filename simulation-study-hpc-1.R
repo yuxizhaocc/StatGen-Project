@@ -112,4 +112,4 @@ for (h in 1:n.N){
 }
 
 
-save(list = ls(all=TRUE), file = "StatGen-Sim-study-complete.RData")
+save(list = ls(all=TRUE), file = "StatGen-Sim-study-complete-part1.RData")
